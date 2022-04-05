@@ -1,8 +1,8 @@
 
 import React from 'react'
-import Home from './src/screens/Home'
+import Home from './src/screens/DebitScreen'
 import { Image } from 'react-native'
-import WeeklyLimit from './src/screens/WeeklyLimit'
+import WeeklyLimit from './src/screens/WeeklyLimitScreen'
 import { createStackNavigator } from '@react-navigation/stack'
 import { NavigationContainer } from '@react-navigation/native'
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons'

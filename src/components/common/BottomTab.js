@@ -36,7 +36,7 @@ export default function BottomTabs() {
 }
 
 const styles = StyleSheet.create({
-    container:{height:'8%',flexDirection: 'row', justifyContent: 'space-evenly', backgroundColor: 'white' },
+    container:{height:50,flexDirection: 'row', justifyContent: 'space-evenly', backgroundColor: 'white' },
     iconWrapper:{ justifyContent: 'center',alignItems:'center'},
     iconStyle:{ tintColor: 'gray', height: 20, width: 20 },
     iconNameText:{fontSize:10,color: COLORS.gray}
